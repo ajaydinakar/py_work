@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 import os
 def cat(file):
-    print("cat")
-    cmd="cat"
-    os.system(cmd+" "+file)
+    if file is None:   
+        print("you didnt given the file name")
+    else:
+        with open(file, 'r') as fin:
+            print (fin.read())
+
+    return;
