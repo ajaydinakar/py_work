@@ -67,7 +67,7 @@ def parser(var):
         run_command(commands.history)
     elif cmd == 'chmod':
         run_command(commands.chmod,var[1],var[2])
-
+    
     else:
         print("give the command in the implementation list")
     return;
@@ -98,19 +98,12 @@ if __name__ == '__main__':
         if len(var) < 1:
             print("give a command after % sign like %cat filename etc")
             sys.exit(0)
-        elif len(var) < 2:
+        if len(var) < 2:
             var.append(None)
             var.append(None)
-        else:
-            parser(var)
-        
-
         if var[0]=='exit':
-            break
-
-        
-        #    print("give the command in the implementation list")
-        
+            break 
+        parser(var)
 
 
 
