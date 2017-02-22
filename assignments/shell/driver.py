@@ -101,8 +101,8 @@ if __name__ == '__main__':
         elif len(var) < 2:
             var.append(None)
             var.append(None)
-        else:
-            parser(var)
+        
+        parser(var)
         
 
         if var[0]=='exit':
