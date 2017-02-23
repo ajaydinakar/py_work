@@ -18,3 +18,4 @@ from less import less
 from chmod import chmod
 from who import who
 from sort import sort
+from hiscmd import hiscmd
