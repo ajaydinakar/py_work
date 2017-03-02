@@ -1,0 +1,364 @@
+1	historylshistoryhistoryeexitexitls
+2	ls -l
+3	ls -lah
+4	history
+5	!3
+6	exit
+7	less driver.py
+8	
+9	
+10	
+11	exit
+12	less driver.py
+13	
+14	
+15	
+16	less driver.py | wc
+17	exit
+18	less driver.py
+19	less driver.py | wc
+20	
+21	exit
+22	less driver.py | wc
+23	exit
+24	less driver.py | wc
+25	less driver.py | wc -l
+26	wc driver.py
+27	wc -l driver.py
+28	history
+29	ls -l
+30	exit
+31	ls -l
+32	ls
+33	exit
+34	ls
+35	exit
+36	ls
+37	ls
+38	ls -l
+39	ls -la
+40	ls | wc
+41	ls | ls -l
+42	ls -l | wc
+43	ls -lah | grep Sep
+44	exit
+45	ls
+46	exit
+47	ls
+48	ls -l
+49	ls -lah
+50	cd cmds
+51	cd cmds
+52	ls
+53	exit
+54	ls
+55	exit
+56	ls
+57	ls -lah
+58	ls -l
+59	ls -a
+60	exit
+61	ls
+62	ls -l
+63	exit
+64	ls
+65	ls -l
+66	ls -lh
+67	ls -lh
+68	exit
+69	ls -lh
+70	exit
+71	ls -l
+72	exit
+73	ls -l
+74	exit
+75	ls -l
+76	exit
+77	ls -l
+78	exit
+79	ls
+80	ls -l
+81	exit
+82	ls -l
+83	exit
+84	ls
+85	ls -l
+86	exit
+87	exit
+88	ls -a
+89	exit
+90	ls
+91	exit
+92	ls
+93	exit
+94	ls
+95	ls -a
+96	ls -l
+97	exit
+98	ls
+99	ls -a
+100	ls -l
+101	ls -la
+102	ls -lah
+103	exit
+104	ls
+105	ls -a
+106	ls -la
+107	ls -lah
+108	exit
+109	ls
+110	ls -a
+111	ls -la
+112	ls -lah
+113	exit
+114	ls
+115	ls -a
+116	ls -l
+117	ls -lh
+118	ls -la
+119	exit
+120	ls
+121	ls -l
+122	ls -lh
+123	ls -lah
+124	pwd
+125	who
+126	ll
+127	history
+128	ll
+129	ls
+130	exit
+131	ls
+132	ls -l
+133	ls -lah
+134	exit
+135	ls -l
+136	y
+137	ls
+138	ll
+139	history
+140	wc history.txt
+141	wc -l history.txt
+142	history
+143	!ls
+144	!131
+145	!120
+146	!132
+147	exit
+148	exit
+149	history
+150	!121
+151	exit
+152	sort twin.txt
+153	cat twin.txt
+154	wc twin.txt
+155	ls
+156	ls -l
+157	ls -lah
+158	mkdir app
+159	ls
+160	cd app
+161	ls
+162	cp gar.txt app/
+163	cp gar.txt app/ding.txt
+164	cd app
+165	cp gar.txt app
+166	exit
+167	ls
+168	cd app
+169	ls
+170	pwd
+171	cd app
+172	rmdir app
+173	ls
+174	cat a.py
+175	ls
+176	mv a.py color.py
+177	ls
+178	ls -a
+179	ls | wc -w
+180	less driver.py
+181	head twin.txt
+182	tail twin.txt
+183	ls
+184	ls | grep py
+185	ls -l
+186	ls -l | grep py
+187	chmod 755 test.py
+188	ls -l
+189	chmod 777 test.py
+190	ls -l
+191	exit
+192	ls -l
+193	exit
+194	ls -l > test.txt
+195	ls > test.txt
+196	cat driver.py
+197	exit
+198	cat gar.txt
+199	ls
+200	ls -l
+201	cat twin.txt file.py > test.py
+202	ls > test.txt
+203	cat test.txt
+204	exit
+205	ls -lah > test.txt
+206	cat test.txt
+207	head < test.txt
+208	cat driver.py
+209	less < twin.txt
+210	less<twin.txt
+211	tail < a.py
+212	exit
+213	head < driver.py
+214	exit
+215	ls | grep py
+216	ls -l | grep py
+217	exit
+218	grep py temp.txt
+219	cat temp.txt
+220	grep star twin.txt
+221	exit
+222	head twin.txt
+223	tail twin.txt
+224	exit
+225	tail twin.txt
+226	exit
+227	tail twin.txt
+228	exit
+229	tail twin.py
+230	tail twin.txt
+231	exit
+232	tail twin.py
+233	tail twin.txt
+234	exit
+235	tail driver.py
+236	head driver.py
+237	exit
+238	head driver.py
+239	exit
+240	head driver.py
+241	exit
+242	head driver.py
+243	exit
+244	head driver.py
+245	exit
+246	head driver.py
+247	exit
+248	less driver.py
+249	
+250	
+251	
+252	
+253	
+254	exit
+255	less driver.py
+256	tail driver.py
+257	head driver.py
+258	exit
+259	less driver.py
+260	exit
+261	less driver.py
+262	y
+263	exit
+264	less driver.py
+265	exit
+266	less driver.py
+267	exit
+268	exit
+269	less driver.py
+270	exit
+271	ls
+272	ls -a
+273	ls -l
+274	ls -lah
+275	ls -lah | grep Mar
+276	exit
+277	ls
+278	ls -a
+279	ls -la
+280	ls -lah
+281	pwd
+282	who
+283	exit
+284	
+285	history
+286	!231
+287	!277
+288	!274
+289	exit
+290	sort jingle.txt
+291	grep Jingle jingle.txt
+292	exit
+293	grep Jingle jingle.txt
+294	exit
+295	grep Jingle jingle.txt
+296	cat jingle.txt
+297	ls -lah | grep May
+298	ls -lah | grep Mar
+299	exit
+300	history | grep ls
+301	exit
+302	history | grep ls
+303	exit
+304	ls -lah
+305	ls -l
+306	nano driver.py
+307	exit
+308	ls -l
+309	ls -l | wc -l
+310	exit
+311	exit
+312	ls
+313	history
+314	history | wc
+315	ls
+316	ls -l
+317	ls -lsh
+318	ls -lah
+319	sort twin,txt
+320	sort twin.txt
+321	cat twin.txt
+322	grep the twin.txt
+323	ls -l | grep Mar
+324	exit
+325	head  twin.txt
+326	tail twin.txt
+327	who
+328	chmod 777 twin.txt
+329	ls -l
+330	ls | grep twin
+331	ls
+332	exit
+333	head driver.py
+334	head
+335	exit
+336	ls
+337	ls -l
+338	ls -lah
+339	mkdir app
+340	ls -l
+341	cd app
+342	ls
+343	pwd
+344	cd ..
+345	ls
+346	cd rr.fff
+347	ls
+348	cd ..
+349	ls
+350	rmdir rr.fff
+351	history | grep ls | grep -l
+352	history | grep lah
+353	history | grep ls | grep lah
+354	!275
+355	cp mail.txt cmds/mail.txt
+356	cd cmds
+357	ls
+358	exit
+359	ls
+360	ls -l
+361	ls -lah
+362	exit
+363	sort history.txt
+364	history | sort

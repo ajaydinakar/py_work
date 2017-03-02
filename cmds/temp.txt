@@ -1,0 +1,9 @@
+__init__.py         __init__.pyc        cat.py              cat.pyc             chgdir.py           chgdir.pyc          
+chmod.py            chmod.pyc           commands.py         commands.pyc        cp.py               cp.pyc              
+exit.py             gar.txt             grep.py             grep.pyc            hd.py               hd.pyc              
+head.pyc            hiscmd.py           hiscmd.pyc          history.py          history.pyc         history.txt         
+less.py             less.py.save        less.pyc            ls.py               ls.py.save          ls.py.save.1        
+ls.pyc              mail.txt            md.txt              mkdir.py            mkdir.pyc           mv.py               
+mv.pyc              pwd.py              pwd.pyc             rm.py               rm.pyc              rmdir.py            
+rmdir.pyc           sort.py             sort.pyc            tail.py             tail.pyc            temp.txt            
+wc.py               wc.pyc              who.py              who.pyc             
